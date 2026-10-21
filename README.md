@@ -149,6 +149,8 @@ cmake --build engine/build --config Release
 
 The result is `engine/build/Release/haline_engine.dll`, together with the torch DLLs.
 
+For more information, visit the AI ​​repository: https://github.com/G-Hangel/Haline-Andante
+
 ### 5. Plugin, package and installer
 
 ```bash
