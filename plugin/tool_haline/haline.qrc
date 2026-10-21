@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/pics">
+    <file alias="dark_haline_eta.svg">pics/dark_haline_eta.svg</file>
+    <file alias="light_haline_eta.svg">pics/light_haline_eta.svg</file>
+</qresource>
+</RCC>

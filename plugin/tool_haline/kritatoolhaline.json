@@ -1,0 +1,9 @@
+{
+    "Id": "Haline AI Tool",
+    "Type": "Service",
+    "X-KDE-Library": "kritatoolhaline",
+    "X-KDE-ServiceTypes": [
+        "Krita/Tool"
+    ],
+    "X-Krita-Version": "28"
+}
